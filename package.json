@@ -1,0 +1,11 @@
+{
+  "name": "some-values",
+  "version": "0.0.0",
+  "description": "Create non-magical values for unit tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jahred Hope <jahredhope@gmail.com>",
+  "license": "ISC"
+}
