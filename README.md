@@ -49,7 +49,7 @@ b.string // Returns another random string
 a.string // Returns the first string
 ```
 
-### Supported Values
+## Supported Values
 
 #### String
 A random *Length* of *Char*  
@@ -73,5 +73,5 @@ a = someValues({
 ```
 
 
-### What's on the horizon?
+## What's on the horizon?
 Add Date, ISO Datetime
