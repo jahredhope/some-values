@@ -7,5 +7,20 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jahred Hope <jahredhope@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahredhope/some-values.git"
+  },
+  "keywords": [
+    "Unit",
+    "Tests",
+    "Unit",
+    "Testing",
+    "some-values"
+  ],
+  "bugs": {
+    "url": "https://github.com/jahredhope/some-values/issues"
+  },
+  "homepage": "https://github.com/jahredhope/some-values#readme"
 }
